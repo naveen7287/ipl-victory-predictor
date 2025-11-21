@@ -1,0 +1,12 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+ENV/
+.ipynb_checkpoints/
+.DS_Store
+model.pkl.bak
+model_fixed.pkl
